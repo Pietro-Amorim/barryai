@@ -1,29 +1,3 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="854" height="100" style="z-index:ljposition:relative" viewBox="0 14 100">
-<style>
-    .text { font-size: 70px; font-weight: 700; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji; } 
-    .desc { font-size: 20px; font-weight: 500; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji; }
-
-    .text, .desc { animation: fadeln 1.2s ease-in-out forwards; }
-    @keyframes fadeln { from { opacity: 0; } to { opacity: 1; } }
-</style>
-
-<g transform="translate(427, 50) scale(1, 1) translate(-427, -50)">
-    <path d fill="#1E90FF" opacity="0.4">@</path>
-    <path d fill="#1E90FF" opacity="0.4">@</path>
-</g>
-
-<style class="darkreader darkreader--fallback">
-    html, body, body :not(iframe) {
-    background-color: var(--darkreader-background-ffffff, #181a1b) !important;
-    border-color: var(--darkreader-border-404040, #776e62) !important;
-    color: var(--darkreader-text-000000, #e8e6e3) !important;
-    }
-    div[style*="background-color: rgb(135, 135, 135)"] {
-    background-color: #878787 !important;
-    }
-</style>
-</svg>
-
 <div align="center">
 ![BarryAI](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=2000&color=1E90FF&center=true&vCenter=true&width=600&height=80&lines=BarryAI;Seu+tempo+é+valioso?;BarryAI+entende;Entre+em+contato.)
 </div>
