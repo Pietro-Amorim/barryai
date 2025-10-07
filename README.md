@@ -1,5 +1,7 @@
 <div align="center">
+
 ![BarryAI](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=2000&color=1E90FF&center=true&vCenter=true&width=600&height=80&lines=BarryAI;Seu+tempo+é+valioso?;BarryAI+entende;Entre+em+contato.)
+
 </div>
 
 > **Uma IA acessível para todos.**
