@@ -1,1 +1,15 @@
-/* You can add global styles to this file, and also import other style files */
+// Cores do projeto
+:root {
+  --azul-oceano: #3AAED8;
+  --azul-claro: #B3E5FC;
+  --cinza-azulado: #37474F;
+  --cinza-muito-claro: #ECEFF1;
+  --branco: #FFFFFF;
+}
+
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  background-color: var(--cinza-muito-claro);
+  color: var(--cinza-azulado);
+}
