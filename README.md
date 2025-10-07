@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=2000&color=00C853&center=true&vCenter=true&width=600&height=80&lines=BarryAI;Seu+tempo+é+valioso?;BarryAi+entende;+Entre+em+contato." alt="BarryAI" />
+
+![BarryAI](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=2000&color=1E90FF&center=true&vCenter=true&width=600&height=80&lines=BarryAI;Seu+tempo+é+valioso?;BarryAI+entende;Entre+em+contato.)
+
 </div>
 
 > **Uma IA acessível para todos — mesmo para quem tem dificuldade com tecnologia.**
