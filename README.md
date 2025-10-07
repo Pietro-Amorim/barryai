@@ -148,26 +148,15 @@ classDiagram
 
 ```mermaid 
 flowchart TD
+    Admin -->|Gerenciar Usuários| BarryAI
+    Admin -->|Acessar Todas Ferramentas da IA| BarryAI
 
-    %% Atores
-    A[Admin] -->|Gerenciar Usuários| B(BarryAI)
-    A -->|Acessar Todas Ferramentas da IA| B
+    UsuarioBasico -->|Enviar Mensagem Básica| BarryAI
+    UsuarioBasico -->|Receber Resposta Simples| BarryAI
 
-    C[Usuário Básico] -->|Enviar Mensagem Básica| B
-    C -->|Receber Resposta Simples| B
-
-    D[Usuário Premium] -->|Acessar Ferramentas Avançadas| B
-    D -->|Mudar Modelo de IA| B
-    D -->|Personalizar Respostas| B
-
-    %% Relacionamento de extensão (opcional, representado como nota)
-    style A fill:#d4f7e5,stroke:#2e8b57
-    style C fill:#e6f2ff,stroke:#1e70bf
-    style D fill:#fff2e6,stroke:#d98c3a
-    style B fill:#f9f,stroke:#333,stroke-width:2px,color:#000
-
-    classDef actor fill:#e0e0e0,stroke:#555;
-    class A,C,D actor;
+    UsuarioPremium -->|Acessar Ferramentas Avançadas| BarryAI
+    UsuarioPremium -->|Mudar Modelo de IA| BarryAI
+    UsuarioPremium -->|Personalizar Respostas| BarryAI
 ```
 
 
