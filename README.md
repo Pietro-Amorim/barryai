@@ -203,15 +203,7 @@ ng serve
 
 ---
 
-## 📄 Documentação
-
-- **Protótipo de Interface**: [Link para Figma] *(adicione seu link)*  
-- **Documentação Detalhada**: `docs/` (ou em Word, conforme sua estrutura)  
-- **Variáveis de Ambiente**: Veja `.env.example`
-
----
-
 ## 📜 Licença
 
-Este projeto é privado e de propriedade da equipe BarryAI. Todos os direitos reservados.  
+Este projeto é privado e de propriedade da equipe de desenvolvimento MVMP. Todos os direitos reservados.  
 *(Ou substitua por MIT, Apache, etc., se for open source)*
