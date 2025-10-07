@@ -144,22 +144,28 @@ classDiagram
 
 ### 2. Diagrama de Casos de Uso
 
-```mermaid
-useCaseDiagram
-    actor Admin
-    actor "Usuário Básico" as Basic
-    actor "Usuário Premium" as Premium
+```mermaid 
+flowchart TD
 
-    rectangle BarryAI {
-        Admin -- (Gerenciar Usuários)
-        Admin -- (Acessar Todas Ferramentas da IA)
-        Basic -- (Enviar Mensagem Básica)
-        Basic -- (Receber Resposta Simples)
-        Premium -- (Acessar Ferramentas Avançadas)
-        Premium -- (Mudar Modelo de IA)
-        Premium -- (Personalizar Respostas)
-        (Enviar Mensagem Básica) .> (Acessar Ferramentas Avançadas) : extend
-    }
+    %% Atores
+    A[Admin] -->|Gerenciar Usuários| B(BarryAI)
+    A -->|Acessar Todas Ferramentas da IA| B
+
+    C[Usuário Básico] -->|Enviar Mensagem Básica| B
+    C -->|Receber Resposta Simples| B
+
+    D[Usuário Premium] -->|Acessar Ferramentas Avançadas| B
+    D -->|Mudar Modelo de IA| B
+    D -->|Personalizar Respostas| B
+
+    %% Relacionamento de extensão (opcional, representado como nota)
+    style A fill:#d4f7e5,stroke:#2e8b57
+    style C fill:#e6f2ff,stroke:#1e70bf
+    style D fill:#fff2e6,stroke:#d98c3a
+    style B fill:#f9f,stroke:#333,stroke-width:2px,color:#000
+
+    classDef actor fill:#e0e0e0,stroke:#555;
+    class A,C,D actor;
 ```
 
 
