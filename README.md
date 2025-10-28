@@ -206,4 +206,3 @@ ng serve
 ## 📜 Licença
 
 Este projeto é privado e de propriedade da equipe de desenvolvimento MVMP. Todos os direitos reservados.  
-*(Ou substitua por MIT, Apache, etc., se for open source)*
