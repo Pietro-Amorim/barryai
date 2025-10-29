@@ -27,7 +27,7 @@ Tornar a interação com inteligência artificial **acessível, segura e produti
 |----------------------|------------------------------------------------------------------------|
 | **Admin**            | - Gerencia todos os usuários (básico e premium)<br>- Acesso total ao sistema<br>- Pode visualizar métricas, logs e gerenciar planos |
 | **Usuário Básico**   | - Acesso limitado às funcionalidades da IA<br>- Interface simplificada<br>- Sem acesso a ferramentas avançadas |
-| **Usuário Premium**  | - Acesso completo às funcionalidades da IA<br>- Integração com múltiplos modelos (ChatGPT, Qwen, Gemini, Copilot)<br>- Recursos avançados de personalização |
+| **Usuário Premium**  | - Acesso completo às funcionalidades da IA<br>- Integração com múltiplos modelos (ChatGPT, Qwen, Gemini, Copilot)<br>- Recursos avançados de personalização<br>- Acesso a criação de imagens com o BarryAi |
 
 ---
 
