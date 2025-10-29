@@ -10,9 +10,14 @@ BarryAI é um **chatbot inteligente** desenvolvido com foco em **usabilidade e i
 
 ---
 
+## 🧩 Problematização
+Em um mundo cada vez mais digital, o acesso à tecnologia tornou-se essencial para a participação plena na sociedade. No entanto, muitas pessoas ainda enfrentam grandes dificuldades em lidar com ferramentas tecnológicas, seja por falta de familiaridade, limitações físicas ou cognitivas, ou pela complexidade das interfaces disponíveis. Essa exclusão digital impede que esses indivíduos usufruam de serviços básicos, como comunicação, educação e atendimento público, ampliando desigualdades sociais já existentes.
+
+Diante desse cenário, surge a necessidade de desenvolver soluções tecnológicas mais acessíveis e intuitivas, como inteligências artificiais de fácil manuseio, que possibilitem a inclusão digital e a autonomia de pessoas com dificuldades no uso da tecnologia. Assim, a tecnologia deixa de ser uma barreira e passa a ser um instrumento de apoio, empatia e transformação social. 
+
 ## 🎯 Objetivo
 
-Tornar a interação com inteligência artificial **acessível, segura e produtiva** para pessoas de todas as idades e níveis de familiaridade com tecnologia.
+Tornar a interação com inteligência artificial **acessível, segura e produtiva** para pessoas de todas as idades e níveis de dificuldade em relação a tecnologia tecnologia.
 
 ---
 
